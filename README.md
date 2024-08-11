@@ -1,7 +1,2 @@
-public class project{
-public static void main(String[]args){
-int x= 50;
-int y= 50;
-System.out.println(x+y);
-}
-}
+hii this is my first reprositary
+i am amit kumar persuing BE CSE FROM AARUPADAI VEEDU INSTITITE OF TECHNOLOGY
